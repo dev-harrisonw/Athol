@@ -1,2 +1,0 @@
-# Athol
-Athol Paints Website
